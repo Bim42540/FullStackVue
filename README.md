@@ -1,6 +1,1 @@
-# FullStackVue
-# FullStackVue
-# FullStackVue
-# FullStackVue
-# FullStackVue
-# FullStackVue
+Text that is not a quote
